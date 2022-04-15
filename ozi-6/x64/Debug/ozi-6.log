@@ -1,0 +1,3 @@
+﻿  ozi-6.cpp
+D:\универ\ози\Отчеты\ozi-6\ozi-6.cpp(130,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ozi-6.vcxproj -> D:\универ\ози\Отчеты\ozi-6\x64\Debug\ozi-6.exe
